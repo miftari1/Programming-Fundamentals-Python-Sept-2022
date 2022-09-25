@@ -1,5 +1,5 @@
 # Programming-Fundamentals-Python-Sept-2022
-This repository contains solutions of the exercises from the course "Programming Fundamentals with Python" of the software acadamy of SoftUni University
+This repository contains solutions of the exercises from the course "Programming Fundamentals with Python" of the software academy of SoftUni University
 
 Link to the course - https://softuni.bg/trainings/3840/programming-fundamentals-with-python-september-2022
 
