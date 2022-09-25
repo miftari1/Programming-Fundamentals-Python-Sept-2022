@@ -5,4 +5,5 @@ Link to the course - https://softuni.bg/trainings/3840/programming-fundamentals-
 
 Online judge system - https://judge.softuni.org/
 
-<img src = "/This PC/Documents/softuniLogo.png" alt = "This is an image of the SoftUni University's logo.">
+<img src = "https://user-images.githubusercontent.com/114125135/192135940-ccc73c86-8f33-41c5-9b84-0c1e2b434f5b.png" alt = "This is an image of the SoftUni University's logo.">
+
